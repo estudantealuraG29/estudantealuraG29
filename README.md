@@ -1,9 +1,14 @@
-## Olá ,sou Gabriel 👋
+**boas vindas ao meu perfil**
+o meu nome e gabriel
+
+estou dessenvolvendo scarth a java script
+![]()
+
+ 
 
 <!--
 **estudantealuraG29/estudantealuraG29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**meu**corriculo proficional**:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
